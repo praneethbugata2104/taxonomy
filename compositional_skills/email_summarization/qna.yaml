@@ -1,0 +1,44 @@
+- question: "What is the main topic of the email?"
+  answer: "The email discusses the upcoming project deadlines."
+  
+- question: "Who is the sender of the email?"
+  answer: "The sender is John Doe."
+
+- question: "What is the deadline mentioned in the email?"
+  answer: "The deadline is set for October 15th."
+
+- question: "Is there any meeting scheduled?"
+  answer: "Yes, there is a meeting scheduled for October 1st."
+
+- question: "What is the purpose of the meeting?"
+  answer: "The meeting aims to discuss project progress."
+
+- question: "Are there any action items?"
+  answer: "Yes, team members need to submit their reports by next week."
+
+- question: "What are the key deliverables mentioned?"
+  answer: "The key deliverables include the project plan and budget proposal."
+
+- question: "Is there any mention of team feedback?"
+  answer: "Yes, team feedback is requested on the initial draft."
+
+- question: "Who is responsible for the budget proposal?"
+  answer: "Jane Smith is responsible for the budget proposal."
+
+- question: "What is the status of the project?"
+  answer: "The project is currently on track."
+
+- question: "Are there any concerns raised in the email?"
+  answer: "Yes, there are concerns about resource allocation."
+
+- question: "What is the next step mentioned?"
+  answer: "The next step is to finalize the project plan."
+
+- question: "Is there any mention of external stakeholders?"
+  answer: "Yes, the email mentions the need to update external stakeholders."
+
+- question: "What is the tone of the email?"
+  answer: "The tone of the email is formal and informative."
+
+- question: "When is the next project update?"
+  answer: "The next project update is scheduled for October 10th."
